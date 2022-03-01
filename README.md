@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Sérgio Damasceno 🖐️
 <br/>
 
-[![Blog](https://img.shields.io/website?label=sergiodamascenopage&style=for-the-badge&url=https://google.com)
+[![Blog](https://img.shields.io/website?label=sergiodamascenopage&style=for-the-badge&url=https://sergiodamasceno.online)
 ](https://google.com)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/channel/UCqyn-DQXxNeKZNXQuu_dQRA)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/devsergiods/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
